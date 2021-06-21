@@ -1,0 +1,85 @@
+
+J
+java:S1659"*Declare "mySecondChar" on a separate line.(˜‚ƒˆıÿÿÿÿ8ÚêŠ±¢/
+G
+java:S1659",Declare "mySecondDouble" on a separate line.(±úÿ»8ÛêŠ±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(îÑÌäúÿÿÿÿ8£ö±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(òáº»üÿÿÿÿ8ÄË±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ8ÇË±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²Ú8ÉË±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õšÌú8ÊË±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ8ËË±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ë‚¬½úÿÿÿÿ8ÌË±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(’¥™Ìıÿÿÿÿ8ÎË±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(­ğ»œüÿÿÿÿ8ĞË±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ù½Şòÿÿÿÿÿ8ÑË±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(å”İªüÿÿÿÿ8©½›±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ŒÜ£äÿÿÿÿÿ8ª½›±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÆ×8«½›±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä•»„8¬½›±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ˆ¢¦»ûÿÿÿÿ8­½›±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(ê™€Î8®½›±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï†²é8¯½›±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Æä±8°½›±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(Áª«Íşÿÿÿÿ8°½›±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(¼Çí¿şÿÿÿÿ8±½›±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ş”Ø8²½›±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(íóïòüÿÿÿÿ8³½›±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(Ã½à¼8Ãî¢±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(Œ–Ë—8Ãî¢±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÍĞÇèùÿÿÿÿ8Åî¢±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß¥±®8Çî¢±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Çøô8²—§±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÂÔ¢ûÿÿÿÿ8´—§±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(‹ÁÌã8µ—§±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãè¬¹8¶—§±¢/
+[	java:S125"<This block of commented-out lines of code should be removed.(£í’„ùÿÿÿÿ8Ã«º±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(‰ï—­8Úè¹±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ê¬¼8Ûè¹±¢/
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¡}8Üè¹±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã”ôŒ8İè¹±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(öèú±8’Ù¾±¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(µ©°¢8’Ù¾±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ÃÎ®˜şÿÿÿÿ8“Ù¾±¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(øÚóÉøÿÿÿÿ8”Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±Èçè8•Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ù‡É8—Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ½ á8˜Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àÌ²…8™Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÄè8šÙ¾±¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(²îğ‹øÿÿÿÿ8›Ù¾±¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ï´‚8›Ù¾±¢/
+H
+java:S1481".Remove this unused "myBoolean" local variable.(şù—8İêŠ±¢/
+K
+java:S1481"+Remove this unused "myByte" local variable.(Í½şÿÿÿÿ8İêŠ±¢/
+P
+java:S1481"0Remove this unused "myFirstChar" local variable.(˜‚ƒˆıÿÿÿÿ8ŞêŠ±¢/
+Q
+java:S1481"1Remove this unused "mySecondChar" local variable.(˜‚ƒˆıÿÿÿÿ8ßêŠ±¢/
+L
+java:S1481",Remove this unused "myShort" local variable.(Èßşÿÿÿÿ8àêŠ±¢/
+K
+java:S1481"+Remove this unused "myLong" local variable.(æğåÁùÿÿÿÿ8àêŠ±¢/
+G
+java:S1481",Remove this unused "myFloat" local variable.(¡â¿8áêŠ±¢/
+M
+java:S1481"2Remove this unused "myFirstDouble" local variable.(±úÿ»8áêŠ±¢/
+N
+java:S1481"3Remove this unused "mySecondDouble" local variable.(±úÿ»8âêŠ±¢/

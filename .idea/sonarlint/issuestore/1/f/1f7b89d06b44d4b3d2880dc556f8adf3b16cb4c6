@@ -1,0 +1,16 @@
+
+^
+java:S2583"CChange this condition so that it does not always evaluate to "true"(øé¸ö8ÃóÔµ¢/
+?
+java:S1659"Declare "t" on a separate line.(¬Ï˜§şÿÿÿÿ8ÉóÔµ¢/
+?
+java:S1659"Declare "v" on a separate line.(¥—ßãúÿÿÿÿ8ËóÔµ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(Õèì‡8ËóÔµ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÌÒÆ8ÍóÔµ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(”“ ¯øÿÿÿÿ8ÎóÔµ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(šââ˜üÿÿÿÿ8ÎóÔµ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ú¤8ØóÔµ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(îö¿ñÿÿÿÿÿ8ÙóÔµ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Œ’‡Şüÿÿÿÿ8ÙóÔµ¢/

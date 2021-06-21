@@ -1,0 +1,67 @@
+
+O
+java:S6212"/Declare this local variable with "var" instead.(îÑÌäúÿÿÿÿ8ùª¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(òáº»üÿÿÿÿ8ùª¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ8úª¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²Ú8úª¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õšÌú8ûª¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ğö¶üÿÿÿÿ8üª¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ë‚¬½úÿÿÿÿ8ıª¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(’¥™Ìıÿÿÿÿ8ıª¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(­ğ»œüÿÿÿÿ8ıª¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ù½Şòÿÿÿÿÿ8şª¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(å”İªüÿÿÿÿ8şª¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ŒÜ£äÿÿÿÿÿ8şª¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÆ×8şª¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä•»„8ÿª¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ˆ¢¦»ûÿÿÿÿ8ÿª¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(ê™€Î8€«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï†²é8€«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Æä±8€«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(Áª«Íşÿÿÿÿ8«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(¼Çí¿şÿÿÿÿ8«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ş”Ø8«¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(íóïòüÿÿÿÿ8«¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(Ã½à¼8‚«¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(Œ–Ë—8‚«¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÍĞÇèùÿÿÿÿ8‚«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß¥±®8ƒ«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Çøô8ƒ«¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¸ÂÔ¢ûÿÿÿÿ8ƒ«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ºÔ˜ñüÿÿÿÿ8„«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ãè¬¹8„«¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(‰ï—­8„«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ê¬¼8…«¬µ¢/
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¡}8…«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã”ôŒ8…«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(Ã˜Ğ¼øÿÿÿÿ8…«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïËÎ8†«¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(äŠÒ¼şÿÿÿÿ8†«¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(öèú±8†«¬µ¢/
+J
+java:S6212"/Declare this local variable with "var" instead.(µ©°¢8‡«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(ÃÎ®˜şÿÿÿÿ8‡«¬µ¢/
+O
+java:S6212"/Declare this local variable with "var" instead.(øÚóÉøÿÿÿÿ8‡«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±Èçè8‡«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ù‡É8ˆ«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ½ á8ˆ«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àÌ²…8‰«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÄè8‰«¬µ¢/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(²îğ‹øÿÿÿÿ8‰«¬µ¢/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ï´‚8‰«¬µ¢/
+[	java:S125"<This block of commented-out lines of code should be removed.(»–Áüÿÿÿÿ8Š«¬µ¢/
